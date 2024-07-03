@@ -4,3 +4,16 @@ div{
     padding: 10px;
     margin-bottom: 8px;
 }
+#change{
+    background-color: blue;
+    text-decoration: underline;
+    width: fit-content;
+
+}
+
+.how{
+    color: chocolate;
+    font-style: italic;
+    border: 7px solid greenyellow;
+    width: fit-content;
+}
