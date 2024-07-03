@@ -17,3 +17,34 @@ div{
     border: 7px solid greenyellow;
     width: fit-content;
 }
+
+.hero{
+    background-color: skyblue;
+
+    border: 10px solid royalblue;
+}
+
+#jami{
+
+    color: darkblue;
+    font-size: 25px;
+
+    text-align: center;
+
+    text-decoration: underline;
+
+    font-style: italic;
+
+}
+
+.kar{
+
+    font-family: 'Courier New', Courier, monospace;
+
+    background-color:burlywood;
+
+    width: fit-content;
+
+
+
+}
